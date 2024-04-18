@@ -162,7 +162,6 @@ struct ContentView: View {
             return result = currentCount
         }
         
-       
     }
     
   
